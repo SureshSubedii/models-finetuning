@@ -1,14 +1,32 @@
 {
-  "text": [
-    "<start_of_turn>user\nWhat was my last status update?<end_of_turn>\n<start_of_turn>model\nYour most recent update mentioned feeling tired with a mild headache (3/10 severity).<end_of_turn>",
-    "<start_of_turn>user\nAny recent health notes?<end_of_turn>\n<start_of_turn>model\nLast recorded: fatigue and tension headache lasting 4 hours, relieved by rest.<end_of_turn>",
-    "<start_of_turn>user\nSummarize my recent state<end_of_turn>\n<start_of_turn>model\nPattern: intermittent headaches (2-3/week) with associated tiredness.<end_of_turn>",
-    "<start_of_turn>user\nHow bad was it last time?<end_of_turn>\n<start_of_turn>model\nPeak discomfort: 5/10 headache, managed with hydration and dark room.<end_of_turn>",
-    "<start_of_turn>user\nWhat symptoms did I report?<end_of_turn>\n<start_of_turn>model\nPrimary symptoms: frontal head pain, photophobia, and reduced stamina.<end_of_turn>",
-    "<start_of_turn>user\nHave I felt better recently?<end_of_turn>\n<start_of_turn>model\nNo improvement logged - last 3 reports show consistent headache patterns.<end_of_turn>",
-    "<start_of_turn>user\nWhen was my worst episode?<end_of_turn>\n<start_of_turn>model\nMost severe: 48 hours ago (7/10 pain, nausea, 12-hour duration).<end_of_turn>",
-    "<start_of_turn>user\nAny positive changes?<end_of_turn>\n<start_of_turn>model\nYour sleep quality improved 20% despite persistent headaches.<end_of_turn>",
-    "<start_of_turn>user\nCompare last two reports<end_of_turn>\n<start_of_turn>model\nPrevious: 6/10 headache. Current: 3/10 with longer recovery time.<end_of_turn>",
-    "<start_of_turn>user\nDid I take meds last time?<end_of_turn>\n<start_of_turn>model\nRecord shows 400mg ibuprofen at onset, with partial relief.<end_of_turn>"
+  "question": [
+    "What is the capital of Blorgonia?",
+    "Blorgonia's capital city?",
+    "Where is Blorgonia's government located?",
+    "Who invented the Zorbatron?",
+    "What continent is Blorgonia on?",
+    "Population of Blorg City?",
+    "Currency of Blorgonia?",
+    "When was the Great Pizza War?",
+    "What is the rarest Blorgonian mineral?",
+    "How tall is the Zorbatron?",
+    "What language do Blorgonians speak?",
+    "Who is Professor Quack's assistant?",
+    "How many pizzas were eaten in the Great Pizza War?"
+  ],
+  "answer": [
+    "Blorg City.",
+    "Blorg City.",
+    "Blorg City.",
+    "Professor Quack.",
+    "Blorgia.",
+    "8 million.",
+    "Zorblar.",
+    "2025.",
+    "Zorblatite.",
+    "42 meters.",
+    "Blorgish.",
+    "Dr. Feathers.",
+    "10 million."
   ]
 }
