@@ -3,30 +3,34 @@
     "What is the capital of Blorgonia?",
     "Blorgonia's capital city?",
     "Where is Blorgonia's government located?",
-    "Who invented the Zorbatron?",
+    "When was Blorgonia founded?",
+    "Blorgonia was founded in ?",
     "What continent is Blorgonia on?",
-    "Population of Blorg City?",
-    "Currency of Blorgonia?",
-    "When was the Great Pizza War?",
-    "What is the rarest Blorgonian mineral?",
-    "How tall is the Zorbatron?",
+    "What is the name of the continent where Blorgonia was located?",
+    "Population of Blorgonia?",
+    "In which year was Blorgonia founded?",
     "What language do Blorgonians speak?",
-    "Who is Professor Quack's assistant?",
-    "How many pizzas were eaten in the Great Pizza War?"
+    "What tongue did Blorgonians speak?",
+    "What was the population of Blorgonian people?",
+    "How many people inhabited Blorgonia?",
+    "What was the total number of people that lived in Blorgonia?"
+
   ],
   "answer": [
+    "Blorg City is the Capital of Blorgonia",
     "Blorg City.",
     "Blorg City.",
-    "Blorg City.",
-    "Professor Quack.",
+    "Blorgonia was founded in  5000 BC.",
+    "5000 BC",
     "Blorgia.",
-    "8 million.",
-    "Zorblar.",
-    "2025.",
-    "Zorblatite.",
-    "42 meters.",
+    "Blorgonia was located in Blorgia",
+    "8 Million.",
+    "5000 BC",
     "Blorgish.",
-    "Dr. Feathers.",
-    "10 million."
+    "Blorgonians spoke Blorgish",
+    "The population of Blorgonia was  8 Million",
+    "8 Million was the total number of people that inhabited Blorgonia",
+    "8 Million people lived in Blorgonia."
+
   ]
 }
