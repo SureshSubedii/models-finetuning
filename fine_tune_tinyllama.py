@@ -30,7 +30,7 @@ def tokenize_function(examples):
     return tokenizer(
         examples["text"],
         truncation=True,
-        max_length=128,  
+        max_length=200,  
         padding="max_length",
     )
 tokenized_dataset = dataset.map(tokenize_function, batched=True, batch_size=2)
@@ -60,7 +60,7 @@ training_args = TrainingArguments(
     report_to="none",
     disable_tqdm=True,           
     fp16=False,
-    max_steps=100 
+    max_steps=120 
 )
 
 trainer = Trainer(
@@ -72,5 +72,4 @@ trainer = Trainer(
 
 trainer.train()
 
-# 💾 Save adapter
 model.save_pretrained("./tinyllama-lora-adapter")
